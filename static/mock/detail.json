@@ -1,0 +1,40 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "武汉海昌极地海洋公园",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1504/3b/3b013445e28b2e69.water.jpg_350x240_6a4e93ec.jpg", "http://img1.qunarzz.com/sight/p0/1504/4d/4dd3d7e26910b9c5.water.jpg_350x240_f9c1ab0f.jpg","http://img1.qunarzz.com/sight/p0/1801/cb/cb20ce4340f671fea3.img.jpg_350x240_5f332a0e.jpg","http://img1.qunarzz.com/sight/p0/1504/f7/f7e4593ec7c70110.water.jpg_350x240_27c076b4.jpg","http://img1.qunarzz.com/sight/p0/1504/5e/5e6977723d5c9d39.water.jpg_350x240_f8203c08.jpg"],
+    "categoryList": [{
+        "title": "单极地馆门票",
+        "children": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人票（单极地馆)"
+            }]
+          },{
+            "title": "老人票",
+            "children": [{
+              "title": "老人票（单极地馆)"
+            }]
+        },{
+          "title": "儿童票",
+          "children": [{
+            "title": "儿童票（单极地馆)"
+          }]
+      },{
+        "title": "大学生票",
+        "children": [{
+          "title": "大学生票（单极地馆)"
+        }]   
+      }]
+      },{
+        "title": "成人通票（送海洋萌宠乐园+水母馆）"
+      }, {
+        "title": "1大1小亲子票（送海洋萌宠乐园+水母馆）"
+      }, {
+        "title": "优待票通票（送海洋萌宠乐园+水母馆）"
+      }, {
+        "title": "年卡"
+      }]
+  }
+}

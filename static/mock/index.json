@@ -1,0 +1,109 @@
+{
+    "ret": true,
+    "data": {
+      "swiperList": [{
+          "id":"0001",
+          "imgURL":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/46615d61d13ad13c173c72565bc202b0.jpg_750x200_3ca0aaf9.jpg"
+        },
+        {
+          "id":"0002",
+          "imgURL":"http://img1.qunarzz.com/piao/fusion/1811/29/2a6b77b6ff72402.jpg_750x200_d4cec568.jpg"
+        },
+        {
+          "id":"0003",
+          "imgURL":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/292b7afd8042e0fde68b5c09d4a22d27.jpg_750x200_42d7391a.jpg"
+        },{
+          "id": "0004",
+          "imgURL": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/5a613f91d1e95a8442fa128957565be8.jpg_750x200_7ad50d73.jpg"
+        }],
+      "iconList": [{
+          "id": "0001",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+          "desc": "热门景点"
+        }, {
+          "id": "0002",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+          "desc": "一日游"
+        }, {
+          "id": "0003",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+          "desc": "武汉必游"
+        }, {
+          "id": "0004",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+          "desc": "亲子游"
+        }, {
+          "id": "0005",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/75/eca3ce656c886502.png",
+          "desc": "木兰天池"
+        }, {
+          "id": "0006",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+          "desc": "动植物园"
+        }, {
+          "id": "0007",
+          "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/c77aa5a455e750b2f43711b2aa7f7ce2.png",
+          "desc": "端午优惠"
+        }, {
+          "id": "0008",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+          "desc": "武汉欢乐谷"
+        }, {
+          "id": "0009",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+          "desc": "极地海洋"
+        }],
+      "recommendList": [{
+          "id": "0001",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1504/47/4730a0c01664b63d.water.jpg_200x200_d7f52253.jpg",
+          "title": "武汉海昌极地海洋公园",
+          "desc": "在“海底两万里”鱼你共舞"
+        }, {
+          "id": "0002",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/3f/f4d858b40070a2232c1f2ffb74d5e2aa.water.jpg_200x200_be41969c.jpg",
+          "title": "锦里沟",
+          "desc": "看樱花桃花次第盛放，感受土苗文化风情"
+        }, {
+          "id": "0003",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1904/67/67de943a3d97215ba3.img.jpg_200x200_92497328.jpg",
+          "title": "武汉欢乐谷",
+          "desc": "来试试中国最高的弹射过山车吧~"
+        }, {
+          "id": "0004",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1502/bb/bbbbe63e21822952.water.jpg_200x200_9fa7fc75.jpg",
+          "title": "紫薇都市田园",
+          "desc": "紫薇的世界，花的海洋"
+        }, {
+          "id": "0005",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1805/f9/f9fa2c4b30dc9f5aa3.img.jpg_200x200_165f7560.jpg",
+          "title": "木兰天池",
+          "desc": "石门锁大别，天池秀木兰。古道接悠远，山气入青岚"
+        }],
+      "weekendList": [{
+          "id": "0001",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1505/d5/abe8a48a6ef8bf.jpg_r_640x214_7c41cc81.jpg",
+          "title": "武汉必打卡",
+          "desc": "到武汉感受神奇的热干面之都"
+        }, {
+          "id": "0002",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1811/6d/5afbf529076ef6.jpg_r_640x214_7414b151.jpg",
+          "title": "三峡人家",
+          "desc": "感受长江的水三峡的情怀，自古至今，无数骚人墨客浓墨重彩的描绘三峡，赶紧领略三峡的壮美吧！"
+        }, {
+          "id": "0003",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1505/4f/95a94c90ef3521.jpg_r_640x214_345412f9.jpg",
+          "title": "开启亲子时光",
+          "desc": "远离喧嚣的都市，带孩子去一个幽静，清新的天然“氧吧”，呼吸新鲜空气，亲近自然健康成长"
+        }, {
+          "id": "0004",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ce/0dd5b8b5f5fd2a.jpg_r_640x214_929b1bec.jpg",
+          "title": "玩遍楚河汉街",
+          "desc": "旧时的租界，现代的新街，无论白天黑夜，听它过去和现在的故事。"
+        }, {
+          "id": "0005",
+          "imgUrl": "http://img1.qunarzz.com/sight/source/1507/e0/4aae49007c8a64.jpg_r_640x214_65a42783.jpg",
+          "title": "周末出游乐翻天",
+          "desc": "周末，想去哪儿就去哪儿~"
+        }]
+    }
+  }
